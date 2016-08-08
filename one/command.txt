@@ -1,0 +1,2 @@
+添加远程库命令：git remote add 库名 url
+
